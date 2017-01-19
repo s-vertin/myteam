@@ -1,0 +1,12 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color: white;
+}
+.motion-w{
+  width: 300px
+}
+h1{
+  font-size: 40px;
+  color: #a00000
+}
